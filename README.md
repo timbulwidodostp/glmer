@@ -1,6 +1,8 @@
 # glmer
 Fitting (Fit) a generalized linear mixed-effects model (GLMM) Use glmer (lme4) With (In) R Software
 
+https://www.youtube.com/watch?v=MJDTbNadeOU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
